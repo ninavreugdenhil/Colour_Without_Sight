@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# JASP temp/lock files
+*.jasp.bak
+~$*.jasp
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Generated figures (uncomment if you don't want to version-control output figures)
+Figuren_Vragenlijst/
+
+# Raw/processed data (uncomment if you don't want to share the data publicly on GitHub)
+Processed_Data/

@@ -43,7 +43,7 @@ Access to the data can be requested by contacting the authors at n.vreugdenhil@u
 
 If you use this code, please cite:
 
-> Vreugdenhil, N. (2026). *Colour Without Sight: How Visually Impaired Individuals Engage With Colour*. [Journal/preprint + DOI, once available]
+> ninavreugdenhil. (2026). ninavreugdenhil/Colour_Without_Sight: v1.0.0 - Initial release (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21511658
 
 ## License
 
